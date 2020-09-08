@@ -1,0 +1,240 @@
+Key = Papua New Guinea, Value = 675
+Key = Cambodia, Value = 855
+Key = Kazakhstan, Value = 7
+Key = Paraguay, Value = 595
+Key = Syria, Value = 963
+Key = Bahamas, Value = 1242
+Key = Solomon Islands, Value = 677
+Key = Montserrat, Value = 1664
+Key = Mali, Value = 223
+Key = Marshall Islands, Value = 692
+Key = Panama, Value = 507
+Key = Laos, Value = 856
+Key = Vatican, Value = 379
+Key = Argentina, Value = 54
+Key = Falkland Islands, Value = 500
+Key = Seychelles, Value = 248
+Key = Belize, Value = 501
+Key = Zambia, Value = 260
+Key = Bahrain, Value = 973
+Key = Guinea-Bissau, Value = 245
+Key = Saint Barthelemy, Value = 590
+Key = Namibia, Value = 264
+Key = Comoros, Value = 269
+Key = Faroe Islands, Value = 298
+Key = Finland, Value = 358
+Key = Netherlands Antilles, Value = 599
+Key = Georgia, Value = 995
+Key = Saint Kitts and Nevis, Value = 1869
+Key = Yemen, Value = 967
+Key = Eritrea, Value = 291
+Key = Puerto Rico, Value = 1939
+Key = Aruba, Value = 297
+Key = Madagascar, Value = 261
+Key = Ivory Coast, Value = 225
+Key = Libya, Value = 218
+Key = Svalbard and Jan Mayen, Value = 47
+Key = Saint Martin, Value = 590
+Key = Sweden, Value = 46
+Key = Malawi, Value = 265
+Key = Andorra, Value = 376
+Key = Liechtenstein, Value = 423
+Key = Poland, Value = 48
+Key = Bulgaria, Value = 359
+Key = Jordan, Value = 962
+Key = Tunisia, Value = 216
+Key = Tuvalu, Value = 688
+Key = United Arab Emirates, Value = 971
+Key = Kenya, Value = 254
+Key = French Polynesia, Value = 689
+Key = Brunei, Value = 673
+Key = Djibouti, Value = 253
+Key = Lebanon, Value = 961
+Key = Azerbaijan, Value = 994
+Key = Cuba, Value = 53
+Key = Czech Republic, Value = 420
+Key = Mauritania, Value = 222
+Key = Saint Lucia, Value = 1758
+Key = Guernsey, Value = 441481
+Key = Mayotte, Value = 262
+Key = Israel, Value = 972
+Key = San Marino, Value = 378
+Key = Australia, Value = 61
+Key = Tajikistan, Value = 992
+Key = Myanmar, Value = 95
+Key = Cameroon, Value = 237
+Key = Gibraltar, Value = 350
+Key = Cyprus, Value = 357
+Key = Northern Mariana Islands, Value = 1670
+Key = Malaysia, Value = 60
+Key = Iceland, Value = 354
+Key = Oman, Value = 968
+Key = Armenia, Value = 374
+Key = Gabon, Value = 241
+Key = Luxembourg, Value = 352
+Key = Brazil, Value = 55
+Key = Turks and Caicos Islands, Value = 1649
+Key = Algeria, Value = 213
+Key = Jersey, Value = 441534
+Key = Slovenia, Value = 386
+Key = Republic of the Congo, Value = 242
+Key = Antigua and Barbuda, Value = 1268
+Key = Colombia, Value = 57
+Key = Ecuador, Value = 593
+Key = Moldova, Value = 373
+Key = Vanuatu, Value = 678
+Key = Cocos Islands, Value = 61
+Key = Honduras, Value = 504
+Key = Italy, Value = 39
+Key = Antarctica, Value = 672
+Key = Nauru, Value = 674
+Key = Haiti, Value = 509
+Key = Afghanistan, Value = 93
+Key = Burundi, Value = 257
+Key = Singapore, Value = 65
+Key = American Samoa, Value = 1684
+Key = Christmas Island, Value = 61
+Key = Russia, Value = 7
+Key = Netherlands, Value = 31
+Key = China, Value = 86
+Key = Sint Maarten, Value = 1721
+Key = Saint Pierre and Miquelon, Value = 508
+Key = Kyrgyzstan, Value = 996
+Key = Reunion, Value = 262
+Key = Bhutan, Value = 975
+Key = Romania, Value = 40
+Key = Togo, Value = 228
+Key = Philippines, Value = 63
+Key = Uzbekistan, Value = 998
+Key = Pitcairn, Value = 64
+Key = British Virgin Islands, Value = 1284
+Key = Zimbabwe, Value = 263
+Key = British Indian Ocean Territory, Value = 246
+Key = Montenegro, Value = 382
+Key = Dominica, Value = 1767
+Key = Indonesia, Value = 62
+Key = Benin, Value = 229
+Key = Angola, Value = 244
+Key = East Timor, Value = 670
+Key = Sudan, Value = 249
+Key = Portugal, Value = 351
+Key = New Caledonia, Value = 687
+Key = Grenada, Value = 1473
+Key = North Korea, Value = 850
+Key = Cayman Islands, Value = 1345
+Key = Greece, Value = 30
+Key = Latvia, Value = 371
+Key = Mongolia, Value = 976
+Key = Iran, Value = 98
+Key = Morocco, Value = 212
+Key = Guatemala, Value = 502
+Key = Guyana, Value = 592
+Key = Iraq, Value = 964
+Key = Chile, Value = 56
+Key = Nepal, Value = 977
+Key = Isle of Man, Value = 441624
+Key = Tanzania, Value = 255
+Key = Ukraine, Value = 380
+Key = Ghana, Value = 233
+Key = Anguilla, Value = 1264
+Key = India, Value = 91
+Key = Canada, Value = 1
+Key = Maldives, Value = 960
+Key = Turkey, Value = 90
+Key = Belgium, Value = 32
+Key = Taiwan, Value = 886
+Key = South Africa, Value = 27
+Key = Trinidad and Tobago, Value = 1868
+Key = Bermuda, Value = 1441
+Key = Central African Republic, Value = 236
+Key = Democratic Republic of the Congo, Value = 243
+Key = Jamaica, Value = 1876
+Key = Peru, Value = 51
+Key = Turkmenistan, Value = 993
+Key = Germany, Value = 49
+Key = Fiji, Value = 679
+Key = Tokelau, Value = 690
+Key = Hong Kong, Value = 852
+Key = Guinea, Value = 224
+Key = United States, Value = 1
+Key = Chad, Value = 235
+Key = Somalia, Value = 252
+Key = Sao Tome and Principe, Value = 239
+Key = Thailand, Value = 66
+Key = Equatorial Guinea, Value = 240
+Key = Kiribati, Value = 686
+Key = Costa Rica, Value = 506
+Key = Vietnam, Value = 84
+Key = Kuwait, Value = 965
+Key = Nigeria, Value = 234
+Key = Croatia, Value = 385
+Key = Cook Islands, Value = 682
+Key = Sri Lanka, Value = 94
+Key = Uruguay, Value = 598
+Key = United Kingdom, Value = 44
+Key = Switzerland, Value = 41
+Key = Samoa, Value = 685
+Key = Palestine, Value = 970
+Key = Spain, Value = 34
+Key = Liberia, Value = 231
+Key = Venezuela, Value = 58
+Key = Burkina Faso, Value = 226
+Key = Swaziland, Value = 268
+Key = Palau, Value = 680
+Key = Estonia, Value = 372
+Key = Wallis and Futuna, Value = 681
+Key = Niue, Value = 683
+Key = Austria, Value = 43
+Key = South Korea, Value = 82
+Key = Mozambique, Value = 258
+Key = El Salvador, Value = 503
+Key = Monaco, Value = 377
+Key = Guam, Value = 1671
+Key = Lesotho, Value = 266
+Key = Tonga, Value = 676
+Key = Western Sahara, Value = 212
+Key = Hungary, Value = 36
+Key = South Sudan, Value = 211
+Key = Japan, Value = 81
+Key = Belarus, Value = 375
+Key = Curacao, Value = 599
+Key = Mauritius, Value = 230
+Key = Albania, Value = 355
+Key = New Zealand, Value = 64
+Key = Senegal, Value = 221
+Key = Macedonia, Value = 389
+Key = Ethiopia, Value = 251
+Key = Egypt, Value = 20
+Key = Macau, Value = 853
+Key = Sierra Leone, Value = 232
+Key = Bolivia, Value = 591
+Key = Malta, Value = 356
+Key = Saudi Arabia, Value = 966
+Key = Cape Verde, Value = 238
+Key = Pakistan, Value = 92
+Key = Kosovo, Value = 383
+Key = Gambia, Value = 220
+Key = Ireland, Value = 353
+Key = Qatar, Value = 974
+Key = U.S. Virgin Islands, Value = 1340
+Key = Slovakia, Value = 421
+Key = France, Value = 33
+Key = Lithuania, Value = 370
+Key = Serbia, Value = 381
+Key = Bosnia and Herzegovina, Value = 387
+Key = Niger, Value = 227
+Key = Rwanda, Value = 250
+Key = Bangladesh, Value = 880
+Key = Barbados, Value = 1246
+Key = Nicaragua, Value = 505
+Key = Norway, Value = 47
+Key = Botswana, Value = 267
+Key = Saint Vincent and the Grenadines, Value = 1784
+Key = Denmark, Value = 45
+Key = Dominican Republic, Value = 1849
+Key = Mexico, Value = 52
+Key = Uganda, Value = 256
+Key = Micronesia, Value = 691
+Key = Suriname, Value = 597
+Key = Greenland, Value = 299
+Key = Saint Helena, Value = 290
